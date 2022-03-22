@@ -130,7 +130,6 @@ span:hover{
       .catch((err) => {
       })     
   }
-      //console.log(stat);
       return loading ? (
         "Loading...."
       ) : (
