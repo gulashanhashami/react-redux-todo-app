@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "title": "gulashan",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "hasha",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "pressure",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "handle",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Redux",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "React-Redux",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "laptop",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "poster",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "vee",
+      "status": false,
+      "id": 9
+    }
+  ]
+}
